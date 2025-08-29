@@ -1,7 +1,5 @@
-# Streamlit Dashboard for Resume Wale Projects
-
 ## Overview
-This dashboard provides a central interface for managing and monitoring all the scripts and processes in the Resume Wale Projects suite. The dashboard automatically starts all BAT files on startup to ensure all systems are operational.
+This dashboard provides a central interface for managing and monitoring all the scripts and processes in the Projects suite. The dashboard automatically starts all BAT files on startup to ensure all systems are operational.
 
 ## Features
 - Auto-starts all monitoring and system BAT files
