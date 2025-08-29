@@ -1,0 +1,100 @@
+{
+  "hourly_stats": {
+    "2025-08-26-15": {
+      "orders_count": 13,
+      "revenue": 4548,
+      "items": {}
+    },
+    "2025-08-26-16": {
+      "orders_count": 2,
+      "revenue": 598,
+      "items": {}
+    },
+    "2025-08-26-17": {
+      "orders_count": 4,
+      "revenue": 1196,
+      "items": {}
+    },
+    "2025-08-27-12": {
+      "orders_count": 14,
+      "revenue": 4066,
+      "items": {}
+    },
+    "2025-08-27-13": {
+      "orders_count": 9,
+      "revenue": 2991,
+      "items": {}
+    },
+    "2025-08-27-14": {
+      "orders_count": 2,
+      "revenue": 897,
+      "items": {}
+    },
+    "2025-08-27-19": {
+      "orders_count": 2,
+      "revenue": 598,
+      "items": {}
+    },
+    "2025-08-27-21": {
+      "orders_count": 5,
+      "revenue": 1525,
+      "items": {}
+    },
+    "2025-08-27-22": {
+      "orders_count": 3,
+      "revenue": 897,
+      "items": {}
+    },
+    "2025-08-28-10": {
+      "orders_count": 1,
+      "revenue": 299,
+      "items": {}
+    },
+    "2025-08-28-11": {
+      "orders_count": 8,
+      "revenue": 2392,
+      "items": {}
+    },
+    "2025-08-28-12": {
+      "orders_count": 1,
+      "revenue": 299,
+      "items": {}
+    },
+    "2025-08-28-13": {
+      "orders_count": 1,
+      "revenue": 299,
+      "items": {}
+    },
+    "2025-08-28-16": {
+      "orders_count": 2,
+      "revenue": 598,
+      "items": {}
+    },
+    "2025-08-28-17": {
+      "orders_count": 3,
+      "revenue": 897,
+      "items": {}
+    }
+  },
+  "daily_revenue": 22100,
+  "popular_items": {
+    "Burger Deluxe": 4,
+    "Pizza Margherita": 2,
+    "Veggie Wrap": 2,
+    "Fish Curry": 1,
+    "Pasta Alfredo": 2,
+    "Paneer Tikka": 2,
+    "Pizza": 52,
+    "Burger": 2,
+    "Caesar Salad": 2,
+    "Biryani": 1
+  },
+  "payment_methods": {
+    "Wallet": 5,
+    "UPI": 4,
+    "Cash": 3,
+    "Card": 58
+  },
+  "customer_segments": {},
+  "last_updated": "2025-08-28T17:12:10.791739"
+}

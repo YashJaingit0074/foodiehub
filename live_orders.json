@@ -1,0 +1,50 @@
+[
+  {
+    "customer_name": "John Doe",
+    "user_name": "John Doe",
+    "user_phone": "+91 98765-43210",
+    "user_address": "123 Food Street, Delicious City",
+    "items": [
+      {
+        "name": "Pizza",
+        "price": 299,
+        "quantity": 1,
+        "total": 299
+      }
+    ],
+    "food_item": "Pizza",
+    "meal": "Pizza",
+    "amount": 299,
+    "total": 299,
+    "subtotal": 299,
+    "delivery_charge": 0,
+    "payment_method": "Card",
+    "order_id": 1,
+    "timestamp": "2025-08-28T17:12:10.772518",
+    "status": "Placed"
+  },
+  {
+    "customer_name": "John Doe",
+    "user_name": "John Doe",
+    "user_phone": "+91 98765-43210",
+    "user_address": "123 Food Street, Delicious City",
+    "items": [
+      {
+        "name": "Pizza",
+        "price": 299,
+        "quantity": 1,
+        "total": 299
+      }
+    ],
+    "food_item": "Pizza",
+    "meal": "Pizza",
+    "amount": 299,
+    "total": 299,
+    "subtotal": 299,
+    "delivery_charge": 0,
+    "payment_method": "Card",
+    "order_id": 2,
+    "timestamp": "2025-08-28T17:12:10.788739",
+    "status": "Preparing"
+  }
+]
